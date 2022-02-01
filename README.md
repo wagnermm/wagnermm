@@ -1,4 +1,4 @@
-- Hello, I'm Wagner Miranda 🙋
+- Hello, I'm Wagner Miranda 🙋‍♂️
 
 - I'm am studying:
 
