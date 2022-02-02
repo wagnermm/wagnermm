@@ -1,10 +1,10 @@
 - Hello, I'm Wagner Miranda 🙋‍♂️
 
-- I'm am studying:
+- I'm am studying: html/ css 📚🙇💻 - Java-Script 📚🙇🖥️
 
-- html/ css 📚🙇💻
+- I love technologies, astronomy and rock and roll 
 
-- Java-Script 📚🙇🖥️
+- My objective is becoming a web developer
 
-
+- My dream is knowing canada
 
