@@ -1,5 +1,4 @@
 ## Hi there 👋 My name is Wagner Miranda!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ### I am a front-end developer 👨‍💻
 ### Technology that i use:
 <div align="left" style="display:inline-block">
