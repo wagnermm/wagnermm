@@ -1,5 +1,6 @@
 ## Hi there 👋 My name is Wagner Miranda!
 ### I am a front-end developer 👨‍💻
+- I live in Curitiba city, in Brazil and I started studying programming in 2021. I am always looking for challenges to develop and grow more and more in this so passionate area! 
 ### Technology that i use:
 <div align="left" style="display:inline-block">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
